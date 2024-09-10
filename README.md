@@ -1,5 +1,3 @@
-Claro! Aqui está um README focado na função principal da classe `RecintosZoo` e um detalhamento passo a passo de seu funcionamento:
-
 ---
 
 # Recintos do Zoológico
