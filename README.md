@@ -47,20 +47,6 @@ A função `analisaRecintos` é o coração do sistema e realiza a análise dos 
    - **Recintos Viáveis:**
      - Se houver recintos viáveis, retorna uma lista formatada com o número do recinto, espaço livre e tamanho total.
 
-### Exemplo de Uso
-
-```javascript
-import { RecintosZoo } from './recintos-zoo.js';
-
-const zoo = new RecintosZoo();
-
-// Analisar recintos para 2 macacos
-const resultado = zoo.analisaRecintos('MACACO', 2);
-console.log(resultado);
-```
-
-No exemplo acima, `analisaRecintos` verificará quais recintos podem acomodar 2 macacos e retornará uma lista dos recintos viáveis, com detalhes sobre o espaço livre restante.
-
 ## Testes
 
 Os testes são projetados para validar o funcionamento da função `analisaRecintos` e cobrem os seguintes casos:
