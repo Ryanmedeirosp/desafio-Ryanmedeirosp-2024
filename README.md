@@ -79,4 +79,4 @@ Isso executará todos os testes definidos e verificará a precisão da função 
 
 ---
 
-Este README fornece uma visão detalhada da função `analisaRecintos` e dos testes realizados para garantir seu funcionamento correto. Adapte e expanda conforme necessário para atender às suas necessidades.
+Este README fornece uma visão detalhada da função `analisaRecintos` e dos testes realizados para garantir seu funcionamento correto.
